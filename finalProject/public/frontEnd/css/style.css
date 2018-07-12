@@ -1,0 +1,81 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.menuBar{
+    
+}
+
+.headerTop{
+    margin-top: 75px;
+    
+}
+
+.content{
+    width: 400px;
+    margin: 40px auto;
+    text-align: center;
+}
+
+.separator{
+    width: 25px;
+    border-bottom: 3px solid #f48024;
+    margin: 10px auto;
+}
+
+.subText{
+    font-size: 103%;
+    word-spacing: 2px;
+    line-height: 145%;
+    margin-bottom: 25px;
+}
+
+.mainContent{
+     margin-top: 100px;
+}
+
+.borderLine{
+    border-bottom: 1px solid #a94442;
+}
+
+.blankDiv{
+    height: 50px;
+}
+
+.footer{
+    height: 50px;
+    background-color: #31708f;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
